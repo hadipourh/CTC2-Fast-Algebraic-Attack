@@ -1,3 +1,4 @@
+![CTC(B = 10, Nr)](https://github.com/hadipourh/CTC2-Fast-Algebraic-Attack/blob/master/Pictures/CTC_10.svg)
 # CTC2-Fast-Algebraic-Attack
 A python class implementing Courtois Toy Cipher (CTC2), equipped with some methods to algebaic cryptanalysis of CTC2.
 
