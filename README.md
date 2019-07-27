@@ -4,7 +4,7 @@ A python class implementing Courtois Toy Cipher (CTC2), equipped with some metho
 
 ## What is CTC?
 
-CTC is a toy cipher designed by Courtois, in order to study algebraic attacks on block ciphers. Although it is very similar to the other block ciphers such as Present, it is not a real encryption tool. Soon after Courtois published CTC for the first time in [1], Dunkelman and Keller shown that a few bits of the key can be recovered by linear cryptanalysis [2], which cannot however compromise a security of a larger key. Although CTC had been presented only for studying algebraic attack, Courtois decided to revise it so that it is also secure against linear cryptanalysis, and that's why he presented the secod version of CTC called CTC2 in [3]. there is little difference between CTC and CTC2,  but CTC2 is more secure against linear cryptanalysis.
+CTC is a toy cipher designed by Courtois, in order to study algebraic attacks on block ciphers. Although it is very similar to the other block ciphers such as Present, it is not a real encryption tool. Soon after Courtois published CTC for the first time in [1], Dunkelman and Keller showed that a few bits of the key can be recovered by linear cryptanalysis [2], which cannot however compromise a security of a larger key. Although CTC had been presented only for studying algebraic attack, Courtois decided to revise it so that it is also secure against linear cryptanalysis, and that's why he presented the secod version of CTC called CTC2 in [3]. there is little difference between CTC and CTC2,  but CTC2 is more secure against linear cryptanalysis.
 
 ## What can you do by these codes?
 
